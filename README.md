@@ -13,6 +13,15 @@ O sistema gira em torno do fundo de custo, que representa uma obra, cliente, ref
 - calcular totais automaticamente
 - preparar a base para gerar PDF e compartilhar no WhatsApp
 
+## Preview
+<img src="./preview/mod/start/2-login-app.png" alt="" />
+<img src="./preview/mod/start/3-cadastro.png" alt="" />
+<img src="./preview/mod/start/4-dashboard.png" alt="" />
+
+<img src="./preview/mod/3-centros-custos/1-fundo.png" alt="" />
+<img src="./preview/mod/3-centros-custos/2-categoria.png" alt="" />
+<img src="./preview/mod/3-centros-custos/3-entrada-saida.png" alt="" />
+
 ## Fluxo principal
 
 1. Login ou cadastro do prestador de servico.
