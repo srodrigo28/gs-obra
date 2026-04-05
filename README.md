@@ -14,13 +14,17 @@ O sistema gira em torno do fundo de custo, que representa uma obra, cliente, ref
 - preparar a base para gerar PDF e compartilhar no WhatsApp
 
 ## Preview
-<img src="./preview/mod/start/2-login-app.png" alt="" />
-<img src="./preview/mod/start/3-cadastro.png" alt="" />
-<img src="./preview/mod/start/4-dashboard.png" alt="" />
+<p align="center">
+  <img src="./preview/mod/start/2-login-app.png" alt="Tela de login" width="32%" />
+  <img src="./preview/mod/start/3-cadastro.png" alt="Tela de cadastro" width="32%" />
+  <img src="./preview/mod/start/4-dashboard.png" alt="Tela de dashboard" width="32%" />
+</p>
 
-<img src="./preview/mod/3-centros-custos/1-fundo.png" alt="" />
-<img src="./preview/mod/3-centros-custos/2-categoria.png" alt="" />
-<img src="./preview/mod/3-centros-custos/3-entrada-saida.png" alt="" />
+<p align="center">
+  <img src="./preview/mod/3-centros-custos/1-fundo.png" alt="Tela de fundo de custo" width="32%" />
+  <img src="./preview/mod/3-centros-custos/2-categoria.png" alt="Tela de categoria" width="32%" />
+  <img src="./preview/mod/3-centros-custos/3-entrada-saida.png" alt="Tela de entrada e saida" width="32%" />
+</p>
 
 ## Fluxo principal
 
