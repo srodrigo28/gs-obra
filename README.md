@@ -14,17 +14,18 @@ O sistema gira em torno do fundo de custo, que representa uma obra, cliente, ref
 - preparar a base para gerar PDF e compartilhar no WhatsApp
 
 ## Preview
-<p align="center">
-  <img src="./preview/mod/start/2-login-app.png" alt="Tela de login" width="32%" />
-  <img src="./preview/mod/start/3-cadastro.png" alt="Tela de cadastro" width="32%" />
-  <img src="./preview/mod/start/4-dashboard.png" alt="Tela de dashboard" width="32%" />
-</p>
-
-<p align="center">
-  <img src="./preview/mod/3-centros-custos/1-fundo.png" alt="Tela de fundo de custo" width="32%" />
-  <img src="./preview/mod/3-centros-custos/2-categoria.png" alt="Tela de categoria" width="32%" />
-  <img src="./preview/mod/3-centros-custos/3-entrada-saida.png" alt="Tela de entrada e saida" width="32%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="./preview/mod/start/2-login-app.png" alt="Tela de login" height="420" /></td>
+    <td align="center"><img src="./preview/mod/start/3-cadastro.png" alt="Tela de cadastro" height="420" /></td>
+    <td align="center"><img src="./preview/mod/start/4-dashboard.png" alt="Tela de dashboard" height="420" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./preview/mod/3-centros-custos/1-fundo.png" alt="Tela de fundo de custo" height="420" /></td>
+    <td align="center"><img src="./preview/mod/3-centros-custos/2-categoria.png" alt="Tela de categoria" height="420" /></td>
+    <td align="center"><img src="./preview/mod/3-centros-custos/3-entrada-saida.png" alt="Tela de entrada e saida" height="420" /></td>
+  </tr>
+</table>
 
 ## Fluxo principal
 
